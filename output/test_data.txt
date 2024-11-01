@@ -1,0 +1,14 @@
+Found a potential American Express PAN on line 2, at character 1, with a PAN of 378282246310005
+Found a potential American Express PAN on line 4, at character 1, with a PAN of 371449635398431
+Found a potential American Express PAN on line 6, at character 1, with a PAN of 378734493671000
+Found a potential Dinner Club PAN on line 10, at character 1, with a PAN of 30569309025904
+Found a potential Dinner Club PAN on line 12, at character 1, with a PAN of 38520000023237
+Found a potential Discover PAN on line 14, at character 1, with a PAN of 6011111111111117
+Found a potential Discover PAN on line 16, at character 1, with a PAN of 6011000990139424
+Found a potential JCB PAN on line 18, at character 1, with a PAN of 3530111333300000
+Found a potential JCB PAN on line 20, at character 1, with a PAN of 3566002020360505
+Found a potential MasterCard PAN on line 22, at character 1, with a PAN of 5555555555554444
+Found a potential MasterCard PAN on line 24, at character 1, with a PAN of 5105105105105100
+Found a potential Visa PAN on line 26, at character 1, with a PAN of 4111111111111111
+Found a potential Visa PAN on line 28, at character 1, with a PAN of 4012888888881881
+Found a potential Visa PAN on line 30, at character 1, with a PAN of 4222222222222
